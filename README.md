@@ -22,4 +22,4 @@ Python 프로그래밍의 기초를 다룹니다:
 
 Python의 중급 개념과 실제 프로젝트를 다룹니다:
 - **1_class_practice.ipynb**: 클래스와 객체지향 프로그래밍 실습
-- **quick_start.ipynb**: 알파 genome quick start 튜토리얼
+- **2_alphagenome_quick_start.ipynb**: alphagenome quick start 튜토리얼
