@@ -1,3 +1,7 @@
+# 업데이트: 11-27
+
+`kbiohealth_env_settings.pdf` 파일에 `2_alphagenome_quick_start.ipynb` 실습을 위한 환경 구축 가이드를 작성했습니다. 
+
 # Python 교육 과정
 
 Python 기초부터 중급까지 단계별로 학습하는 과정입니다.  
